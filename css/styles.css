@@ -1,0 +1,43 @@
+/******************************
+Styles
+******************************/
+.header {
+    background-color: #C2D699;
+    margin-bottom: 0px; 
+}
+
+.content {
+    padding: 20px;
+    border: 2px solid #C2D699;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+/******************************
+Navigation
+******************************/
+#navbtn li a {
+    color: #F8F8F8;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+#navbtn li {
+    font-size: 1.3em;
+    margin-top: 20px;
+}
+
+
+
+#news {
+    background-color: #EECD4D;
+    border-radius: 10px;
+    padding-top: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer {
+
+    background-color: #C2D699;
+}
